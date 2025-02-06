@@ -16,3 +16,5 @@ function handleLogin(event) {
 
 // Attach event listener to the form for submission
 document.getElementById('loginForm').addEventListener('submit', handleLogin);
+/// end 
+\
